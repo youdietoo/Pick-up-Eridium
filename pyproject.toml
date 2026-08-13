@@ -9,5 +9,3 @@ Automatically pick up Eridium.
 [tool.sdkmod]
 name = "Pick up Eridium"
 license = {name = "GPL3", url = "https://choosealicense.com/licenses/gpl-3.0/" }
-download = ""
-version = "1"
